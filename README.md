@@ -15,6 +15,6 @@ HTMLがリクエストの度に生成される。リクエストが発生する�
 ユーザーのリクエストなしでは Pre-rendering できないページ、最新情報を取得したい時に使用される。
 
 参考動画  
-[初めてのNext.js入門！簡単なアプリ実装でNext.jsを基礎から学んでみよう](https://www.youtube.com/watch?v=eEP7CLqnRr0&t=1202s)
+[初めてのNext.js入門！簡単なアプリ実装でNext.jsを基礎から学んでみよう](https://www.youtube.com/watch?v=eEP7CLqnRr0&t=1202s)  
 参考資料  
 [SSG と SSR で理解する Next.js のページレンダリング](https://zenn.dev/luvmini511/articles/1523113e0dec58)
